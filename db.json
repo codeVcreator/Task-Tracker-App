@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30pm",
-      "reminder": true
-    },
-    {
       "id": "2",
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30pm",
@@ -16,13 +10,13 @@
       "id": "19ee",
       "text": "Sahil Birthday",
       "day": "Oct 21st at 12:00 am",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "9913",
       "text": "mom outing",
       "day": "July 5th at 4:00pm",
-      "reminder": true
+      "reminder": false
     }
   ]
 }
